@@ -1,9 +1,6 @@
-8
+5
 test, 0, 0.0
-sobkowicz, 7, 35.442
 bob, 0, 0.0
 evan, 3, 136.977
-sobko, 9, 30.875
-maddogballer, 3, 133.425
-h, 1, 0.0
-papa, 1, 181.062
+testuser, 3, 133.425
+person, 1, 0.0
